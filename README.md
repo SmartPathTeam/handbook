@@ -6,19 +6,25 @@ We recommend you bookmark this page for future reference. If you see anything ou
 
 Stuart
 
-## Sections
+
+
+## Our Mission
+
+We believe that everyone deserves a simpler, low-stress relationship with their money. Personal finance has been overrun by complexity, sales, and uncertainty. That’s why we’re working to make financial problem solving more personal and accessible for people like you, your friends, your coworkers, and your family.
+
+
+
+## Contents
 
 ### About Us
-- Our Mission
-- A Brief History
-- What We Believe
-- Core Values
-- Vocabulary
-- Who Does What
-- Gatewood Award
+- [A Brief History][https://github.com/SmartPathTeam/handbook/blob/master/history.md]
+- [Core Values][https://github.com/SmartPathTeam/handbook/blob/master/values.md]
+- [Vocabulary][https://github.com/SmartPathTeam/handbook/blob/master/vocabulary.md]
+- [Gatewood Award][https://github.com/SmartPathTeam/handbook/blob/master/gatewood.md]
 
-### Benefits
-### Policies
+### [Benefits][https://github.com/SmartPathTeam/handbook/blob/master/benefits.md]
+### [Policies][https://github.com/SmartPathTeam/handbook/blob/master/policies.md]
 
 ### Handy Links
-- Expense Reimbursement
+- [Expense Reimbursement](https://smartpath.typeform.com/to/kzO55K)
+- [Visitor Log Submission](https://forms.gle/EmMeYqUFEQckGpZo8)
