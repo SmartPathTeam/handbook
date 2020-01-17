@@ -4,7 +4,7 @@ This document contains all you need to know about who SmartPath is and how to be
 
 We recommend you bookmark this page for future reference. If you see anything out of place or incorrect, help keep us on track by submittting a suggestion or fix. 
 
-- Stuart
+Stuart
 
 ## Sections
 
