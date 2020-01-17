@@ -1,5 +1,7 @@
 # Benefits
 
+Almost all of these benefits are outlined and facilitated through [Gusto](https://app.gusto.com).
+
 
 
 ## Health (Full-time only)
@@ -10,13 +12,11 @@ SmartPath is excited to provide health benefits to you! Healthy living is import
 
 We currently offer 2 options through **Anthem / Blue Cross Blue Shield of Georgia**.
 
-[**Traditional POS Plan**](https://drive.google.com/open?id=11OTactK1pZSjOUgGSzRF6q1iSMwj9bUr): 
-$3,500 deductible with $8,150 max out of pocket
+[**Traditional POS Plan**](https://drive.google.com/open?id=11OTactK1pZSjOUgGSzRF6q1iSMwj9bUr): 			  $3,500 deductible with $8,150 max out of pocket
 
-[**High Deductible HSA Plan**](https://drive.google.com/open?id=10m3faJrUZfNIIXJjznjpe2dzG0zKiAT6): 
-$6,100 deductible with max out of pocket of $6,850
+[**High Deductible HSA Plan**](https://drive.google.com/open?id=10m3faJrUZfNIIXJjznjpe2dzG0zKiAT6): 	$6,100 deductible with $6,850 max out of pocket
 
-The HSA plan comes with an HSA account that SmartPath contributes $10 / month to. 
+The HSA plan comes with an HSA account through Gusto that SmartPath contributes $10 / month to. 
 
 There are a lot of nuances to Health Care costs. Please spend enough time reading through each plan to understand what is covered and what is not.
 
@@ -78,21 +78,18 @@ As a financial wellness company, what kind of a workplace would we be if we didn
 
 We believe our success lies in the success of our employees. Learning is critical to growing personally and as a company. So we offer **$1,000** per calendar year per employee to spend on "learning." We define this pretty broadly and can have nothing to do with your role at SmartPath. Learning for fun is still learning. This amount also can be used for professional fees and certifications. 
 
+To use this benefit, you can submit an Expense Reimbursement request or work with your manager to use a company card.
+
 
 
 ### Parental Leave (Full-time only)
 
 Spending time with new additions to the family is important. Whether you’ve grown your family the old fashioned way or adopted, your attention is now on more important things. You need to focus on your family (and on whatever sleep you can get). Here are the benefits available for new parents: 
 
-#### 12+ Months with SmartPath:
-
-6 weeks at 100% pay, 6 with 60% pay
-
-#### Less than 12 Months with SmartPath
-
-12 weeks at 60% pay
-
-
+| Tenure                         | Benefit                             |
+| ------------------------------ | ----------------------------------- |
+| **0-11 Months with SmartPath** | 12 weeks at 60% pay                 |
+| **12+ Months with SmartPath**  | 6 weeks at 100% pay, 6 with 60% pay |
 
 Time off may be taken at any point during the first year after family change. For example, you may choose to stagger your leave due to care responsibilities.
 
@@ -134,4 +131,4 @@ SmartPath believes in the value of supporting local, national, and international
 
 ### Donation Matching 
 
-SmartPath will match up to $100 per year to any eligible 501(c)(3) nonprofit. This process is managed by Gusto. Simply click on “Giving” from the menu or [click here][https://manage.gusto.com/employee/giving] to get started.
+SmartPath will match up to $100 per year to any eligible 501(c)(3) nonprofit. This process is managed by Gusto. Simply click on “Giving” from the menu or [click here](https://manage.gusto.com/employee/giving) to get started.
