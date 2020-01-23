@@ -19,8 +19,10 @@ We believe that everyone deserves a simpler, low-stress relationship with their 
 ### About Us
 - [A Brief History](https://github.com/SmartPathTeam/handbook/blob/master/history.md)
 - [Core Values](https://github.com/SmartPathTeam/handbook/blob/master/values.md)
+- [Influences](https://github.com/SmartPathTeam/handbook/blob/master/influences.md)
 - [Vocabulary](https://github.com/SmartPathTeam/handbook/blob/master/vocabulary.md)
 - [Gatewood Award](https://github.com/SmartPathTeam/handbook/blob/master/gatewood.md)
+- [Career Planning](https://github.com/SmartPathTeam/handbook/blob/master/careers.md)
 
 ### [Benefits](https://github.com/SmartPathTeam/handbook/blob/master/benefits.md)
 ### [Policies](https://github.com/SmartPathTeam/handbook/blob/master/policies.md)
