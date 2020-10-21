@@ -108,6 +108,7 @@ Time off may be taken at any point during the first year after family change. Fo
 | **Memorial Day**           | May 25th (Monday)        |
 | **Independence Day**       | July 3rd (Friday)        |
 | **Labor Day**              | September 7nd (Monday)   |
+| **Election Day**           | November 3rd (Tuesday)   |
 | **Thanksgiving Day**       | November 26th (Thursday) |
 | **Day after Thanksgiving** | November 27th (Friday)   |
 | **Christmas Eve**          | December 24th (Thursday) |
