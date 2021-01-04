@@ -12,9 +12,9 @@ SmartPath is excited to provide health benefits to you! Healthy living is import
 
 We currently offer 2 options through **Anthem / Blue Cross Blue Shield of Georgia**.
 
-[**Traditional POS Plan**](https://drive.google.com/open?id=11OTactK1pZSjOUgGSzRF6q1iSMwj9bUr): 			  $3,500 deductible with $8,150 max out of pocket
+[**Traditional POS Plan**](https://drive.google.com/file/d/1Dhgun6LFyOeF-zoEyaYE5hEHHSFcJHJZ/view): 			  $4,000 deductible with $8,200 max out of pocket (for individuals)
 
-[**High Deductible HSA Plan**](https://drive.google.com/open?id=10m3faJrUZfNIIXJjznjpe2dzG0zKiAT6): 	$6,100 deductible with $6,850 max out of pocket
+[**High Deductible HSA Plan**](https://drive.google.com/file/d/1D89jbSzdqXpmytE1bY-YwDre6Hsy-s7B/view): 	$6,100 deductible with $7,200 max out of pocket (for individuals)
 
 The HSA plan comes with an HSA account through Gusto that SmartPath contributes $10 / month to. 
 
@@ -30,7 +30,7 @@ Dependents and family can be added to the plans, but are your responsibility.
 
 Eyecare Coverage is through **Guardian**. It covers the basics and is pretty affordable. 
 
-[Plan Details](https://drive.google.com/open?id=1mAbXxKhmIllDsmCCEIAYV2T9TyguwQ48)
+[Plan Details](https://drive.google.com/file/d/1ab0V7LkItzWsCRwbPXm2t2evdDmRjLrY/view)
 
 
 
@@ -38,7 +38,7 @@ Eyecare Coverage is through **Guardian**. It covers the basics and is pretty aff
 
 Dental Coverage is through **Guardian**. It covers the basics and is pretty affordable. 
 
-[Plan Details](https://drive.google.com/open?id=1vjQ43VdiPsiHhXs662IDJx8iy7Qaj71Y)
+[Plan Details](https://drive.google.com/file/d/1DzAuuvPCjEBM-bB5Cc0R-Mh8O2iKMeHH/view)
 
 
 
@@ -70,16 +70,22 @@ Any referral who is hired and remains at SmartPath for at least 90 days will ear
 
 ### Financial Coaching
 
-As a financial wellness company, what kind of a workplace would we be if we didn’t offer our own services to our employees? You are welcome to setup 1:1 time with Alok to review your financial situation and receive financial advice. 
+As a financial wellness company, what kind of a workplace would we be if we didn’t offer our own services to our employees? You are welcome to setup 1:1 time with Alok, Ryan, Olivia or any of our Coaches or Advisors to review your financial situation and receive financial advice. 
 
 
 
 ### Education Stipend
 
-We believe our success lies in the success of our employees. Learning is critical to growing personally and as a company. So we offer **$1,000** per calendar year per employee to spend on "learning." We define this pretty broadly and can have nothing to do with your role at SmartPath. Learning for fun is still learning. This amount also can be used for professional fees and certifications. 
+We believe our success lies in the success of our employees. Learning is critical to growing personally and as a company. So we offer **$750** per calendar year per employee to spend on "learning." We define this pretty broadly and can have nothing to do with your role at SmartPath. Learning for fun is still learning. This amount also can be used for professional fees and certifications. 
 
-To use this benefit, you can submit an Expense Reimbursement request or work with your manager to use a company card.
+To use this benefit, you can submit an Expense Reimbursement request through Gusto or work with your manager to use a company card.
 
+
+### Home-Office Setup Stipend
+
+Now that we all work from home, and plan to for the forseeable future, being comfortable is a must. We offer **$250** per calendar year per employee to spend on your "home office." If you're looking for ideas, headphones, new desk, new chair, second external monitor, home printer, and office decor might help you get started.
+
+To use this benefit, you can submit an Expense Reimbursement request through Gusto or work with your manager to use a company card.
 
 
 ### Parental Leave (Full-time only)
@@ -103,16 +109,15 @@ Time off may be taken at any point during the first year after family change. Fo
 
 |                            | 2020 Date                |
 | -------------------------- | ------------------------ |
-| **New Years**              | January 1st (Wednesday)  |
-| **MLK Day**                | January 20th (Monday)    |
-| **Memorial Day**           | May 25th (Monday)        |
-| **Independence Day**       | July 3rd (Friday)        |
-| **Labor Day**              | September 7nd (Monday)   |
-| **Election Day**           | November 3rd (Tuesday)   |
-| **Thanksgiving Day**       | November 26th (Thursday) |
+| **New Years**              | January 1st (Friday)  |
+| **MLK Day**                | January 18th (Monday)    |
+| **Memorial Day**           | May 31st (Monday)        |
+| **Independence Day**       | July 5th (Monday)        |
+| **Labor Day**              | September 6th (Monday)   |
+| **Thanksgiving Day**       | November 25th (Thursday) |
 | **Day after Thanksgiving** | November 27th (Friday)   |
-| **Christmas Eve**          | December 24th (Thursday) |
-| **Christmas**              | December 25th (Friday)   |
+| **Christmas Eve**          | December 23th (Thursday) |
+| **Christmas**              | December 24th (Friday)   |
 
 
 
