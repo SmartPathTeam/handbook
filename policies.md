@@ -15,9 +15,7 @@ All employees also undergo regular security training.
 
 ## Expenses + Reimbursements
 
-If you’re ever travelling on behalf of SmartPath or need to make a purchase with SmartPath funds, you may do so and submit and expense report here : 
-
-[Reimbursement Form](https://smartpath.typeform.com/to/kzO55K)
+If you’re ever travelling on behalf of SmartPath or need to make a purchase with SmartPath funds, you may do so and submit and expense report in Gusto.
 
 If you’re with someone who’s more senior, they should be the one to make the purchase, preferably on their company card. 
 
@@ -57,6 +55,16 @@ Gifts from partners, vendors, or potential customers or vendors are only permiss
 - Gifts may never be in the form of cash.
 
 
+## Performance Reviews
+
+Performance reivews are performed twice per year (every 6 months) in March and September. Performance reviews are aimed at quantifying and formally documenting your work and progress while also documenting areas for future improvement. The process is performed in Uptick and goes as follows:
+
+1. Self evaluation
+2. Manager evaluation
+3. CEO review
+4. Evaluation readout with manager
+
+Your manager should be utilizing Uptick for regular 1:1 checkins, which makes pulling snippets from the past 6 months very easy. 
 
 ## Discipline
 
