@@ -115,7 +115,7 @@ Time off may be taken at any point during the first year after family change. Fo
 | **Independence Day**       | July 5th (Monday)        |
 | **Labor Day**              | September 6th (Monday)   |
 | **Thanksgiving Day**       | November 25th (Thursday) |
-| **Day after Thanksgiving** | November 27th (Friday)   |
+| **Day after Thanksgiving** | November 26th (Friday)   |
 | **Christmas Eve**          | December 23th (Thursday) |
 | **Christmas**              | December 24th (Friday)   |
 
