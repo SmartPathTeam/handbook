@@ -74,14 +74,14 @@ As a financial wellness company, what kind of a workplace would we be if we didn
 
 
 
-### Education Stipend
+### Education Stipend (Full-Time Only)
 
 We believe our success lies in the success of our employees. Learning is critical to growing personally and as a company. So we offer **$750** per calendar year per employee to spend on "learning." We define this pretty broadly and can have nothing to do with your role at SmartPath. Learning for fun is still learning. This amount also can be used for professional fees and certifications. 
 
 To use this benefit, you can submit an Expense Reimbursement request through Gusto or work with your manager to use a company card.
 
 
-### Home-Office Setup Stipend
+### Home-Office Setup Stipend (Full-Time Only)
 
 Now that we all work from home, and plan to for the forseeable future, being comfortable is a must. We offer **$250** per calendar year per employee to spend on your "home office." If you're looking for ideas, headphones, new desk, new chair, second external monitor, home printer, and office decor might help you get started.
 
